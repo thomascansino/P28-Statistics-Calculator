@@ -1,1 +1,1 @@
-# P28-Statistics-Calculator
+# Statistics-Calculator-28th Project
